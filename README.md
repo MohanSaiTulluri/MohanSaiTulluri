@@ -230,17 +230,6 @@ Passionate about transforming data into meaningful insights, building intelligen
 
 ---
 
-# 🏆 Certifications & Learning
-
-- AWS Cloud Fundamentals
-- Machine Learning Foundations
-- Data Analytics & Visualization
-- Python for Data Science
-- SQL & Database Management
-- AI & Deep Learning Concepts
-
----
-
 # 📌 Areas of Interest
 
 - Artificial Intelligence
