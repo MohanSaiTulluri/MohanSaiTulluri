@@ -23,13 +23,19 @@ Passionate about transforming data into meaningful insights, building intelligen
   - **Data Engineering**
   - **MLOps**
   - **Cloud AI Services**
-- 📫 Reach me at: **your-email@gmail.com**
 - 🌎 Open to:
   - Data Analyst Roles
   - AI/ML Engineer Roles
   - Data Engineer Roles
   - Business Intelligence Roles
   - Cloud & Data Solutions Roles
+
+---
+
+📫 Contact Information
+
+📧 Email: mohant.umkc@gmail.com
+📱 Phone: +1 (913) 325-7584
 
 ---
 
