@@ -5,6 +5,10 @@ Aspiring Data Analyst | AI/ML Engineer | Data-Driven Problem Solver
 </h3>
 
 <p align="center">
+📧 <b>Email:</b> <a href="mailto:mohant.umkc@gmail.com">mohant.umkc@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
+</p>
+
+<p align="center">
 Passionate about transforming data into meaningful insights, building intelligent systems, and solving real-world problems using AI, Machine Learning, Cloud, and Analytics technologies.
 </p>
 
@@ -23,19 +27,13 @@ Passionate about transforming data into meaningful insights, building intelligen
   - **Data Engineering**
   - **MLOps**
   - **Cloud AI Services**
+- 📫 Reach me at: **mohant.umkc@gmail.com**
 - 🌎 Open to:
   - Data Analyst Roles
   - AI/ML Engineer Roles
   - Data Engineer Roles
   - Business Intelligence Roles
   - Cloud & Data Solutions Roles
-
----
-
-📫 Contact Information
-
-📧 Email: mohant.umkc@gmail.com
-📱 Phone: +1 (913) 325-7584
 
 ---
 
@@ -217,9 +215,9 @@ Passionate about transforming data into meaningful insights, building intelligen
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohanSaiTulluri&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanSaiTulluri&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -228,11 +226,21 @@ Passionate about transforming data into meaningful insights, building intelligen
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanSaiTulluri&theme=tokyonight" />
 </p>
 
 ---
 
+# 🏆 Certifications & Learning
+
+- AWS Cloud Fundamentals
+- Machine Learning Foundations
+- Data Analytics & Visualization
+- Python for Data Science
+- SQL & Database Management
+- AI & Deep Learning Concepts
+
+---
 
 # 📌 Areas of Interest
 
