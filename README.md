@@ -5,7 +5,7 @@ Data Engineer | Forward Deployment Engineer | AI/ML Engineer | Data-Driven Probl
 </h3>
 
 <p align="center">
-📧 <b>Email:</b> <a href="mailto:mohant.umkc@gmail.com">mohant.umkc@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
+📧 <b>Email:</b> <a href="mailto:thullurimohansai262k@gmail.com">mohant.umkc@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Passionate about transforming data into meaningful insights, building intelligen
 # 🚀 About Me
 
 - 🎓 Master’s Graduate in Computer Science from **University of Missouri-Kansas City (UMKC)**  
-- 📊 Interested in **Data Analytics, AI/ML Engineering, Data Science, and Cloud-Based Intelligent Systems**
+- 📊 Interested in **Data Analytics, Forward Deployment Engineer, AI/ML Engineering, Data Science, and Cloud-Based Intelligent Systems**
 - 💼 3+ years of professional experience at **Cognizant, Bangalore, India**
 - 🧠 Strong foundation in **Machine Learning, Data Analytics, Cloud Computing, Databases, and Software Engineering**
 - 🔍 Passionate about building scalable systems and extracting actionable insights from data
