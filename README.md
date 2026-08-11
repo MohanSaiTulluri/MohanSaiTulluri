@@ -5,7 +5,7 @@ Data Engineer | Forward Deployment Engineer | AI/ML Engineer | Data-Driven Probl
 </h3>
 
 <p align="center">
-📧 <b>Email:</b> <a href="mailto:thullurimohansai262k@gmail.com">mohant.umkc@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
+📧 <b>Email:</b> <a href="mailto:thullurimohansai262k@gmail.com">thullurimohansai262k@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
 </p>
 
 <p align="center">
