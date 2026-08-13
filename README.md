@@ -11,7 +11,6 @@ Building scalable data platforms, intelligent AI systems, and production-ready s
 <p align="center">
 <a href="mailto:thullurimohansai262k@gmail.com">📧 Email</a> •
 <a href="https://github.com/MohanSaiTulluri">💻 GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">🔗 LinkedIn</a>
 </p>
 
 ---
