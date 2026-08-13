@@ -1,321 +1,75 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai Tulluri</h1>
 
 <h3 align="center">
-Data Engineer | Forward Deployment Engineer | AI/ML Engineer | Data-Driven Problem Solver
+Data Engineer | AI/ML Engineer | Forward Deployed Engineer
 </h3>
 
 <p align="center">
-📧 <b>Email:</b> <a href="mailto:thullurimohansai262k@gmail.com">thullurimohansai262k@gmail.com</a> | 📱 <b>Phone:</b> 913-325-7584
+Building scalable data platforms, intelligent AI systems, and production-ready solutions that turn complex business problems into reliable engineering products.
 </p>
 
 <p align="center">
-Passionate about transforming data into meaningful insights, building intelligent systems, and solving real-world problems using AI, Machine Learning, Cloud, and Analytics technologies.
+<a href="mailto:thullurimohansai262k@gmail.com">📧 Email</a> •
+<a href="https://github.com/MohanSaiTulluri">💻 GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">🔗 LinkedIn</a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Master’s Graduate in Computer Science from **University of Missouri-Kansas City (UMKC)**  
-- 📊 Interested in **Data Analytics, Forward Deployment Engineer, AI/ML Engineering, Data Science, and Cloud-Based Intelligent Systems**
-- 💼 3+ years of professional experience at **Cognizant, Bangalore, India**
-- 🧠 Strong foundation in **Machine Learning, Data Analytics, Cloud Computing, Databases, and Software Engineering**
-- 🔍 Passionate about building scalable systems and extracting actionable insights from data
-- 🌱 Currently improving skills in:
-  - **Deep Learning**
-  - **Generative AI**
-  - **Data Engineering**
-  - **MLOps**
-  - **Cloud AI Services**
-- 🌎 Open to:
-  - Data Analyst Roles
-  - AI/ML Engineer Roles
-  - Data Engineer Roles
-  - Business Intelligence Roles
-  - Cloud & Data Solutions Roles
+I'm a **Computer Science graduate and Data/AI Engineer** with **5+ years of hands-on experience** across data engineering, machine learning, software engineering, cloud platforms, and AI-driven applications.
 
----
+My work focuses on designing systems that connect **data, AI, cloud infrastructure, and software engineering** to solve real-world problems. I enjoy working across the complete engineering lifecycle — from understanding a problem and processing raw data to building models, APIs, data pipelines, RAG systems, and production-ready applications.
 
-# 💼 Professional Experience
+### 🚀 What I Work On
 
-## 🏢 NVIDIA — Data Engineer
-📍 United States  
-📅 Jun 2025 – Present
+* 🏗️ Building scalable **ETL/ELT and data engineering pipelines**
+* ⚡ Processing large datasets using **Apache Spark, PySpark, SQL, and Databricks**
+* 🧠 Developing **Machine Learning and AI systems**
+* 🤖 Building **Generative AI and Retrieval-Augmented Generation (RAG)** applications
+* 🔎 Implementing **semantic search, embeddings, vector databases, and intelligent retrieval**
+* ☁️ Designing solutions using **AWS, Azure, Databricks, Snowflake, and cloud data platforms**
+* 🔄 Building **batch and streaming data architectures**
+* 🚢 Deploying ML and AI applications using **Docker, FastAPI, Flask, REST APIs, and CI/CD**
+* 📊 Developing analytics-ready datasets for **predictive analytics, anomaly detection, and business intelligence**
+* 🛠️ Solving ambiguous real-world problems through a **Forward Deployed Engineering mindset**
 
-### 🔹 Responsibilities
-- Designed and maintained scalable ETL/ELT data pipelines using Python, SQL, Apache Spark/PySpark, and Databricks, processing high-volume structured and semi-structured datasets for enterprise analytics and engineering workloads.
-- Built distributed data-intensive processing workflows using Apache Spark/PySpark, optimizing transformations, partitioning, joins, and query execution to improve pipeline performance, scalability, and reliability.
-- Developed Data Lake/Lakehouse solutions using Databricks and Delta Lake, creating curated data layers, reusable transformations, and analytics-ready datasets supporting downstream AI/ML and data analytics workloads.
-- Automated data ingestion, validation, data quality checks, and pipeline monitoring, implementing robust error handling and production controls to improve data reliability and operational stability.
-- Developed complex SQL data models and transformations across large-scale datasets and integrated data from multiple enterprise sources into centralized cloud data platforms for reporting, analytics, and engineering use cases.
-- Collaborated with Data Scientists, ML Engineers, Software Engineers, and cross-functional teams to build production-grade data pipelines and trusted datasets supporting AI/ML, anomaly detection, predictive analytics, and large-scale data processing.
+### 🎯 Engineering Interests
 
-### 🔹 Technologies Used
-`Python` `SQL` `Apache Spark` `PySpark` `Databricks` `Delta Lake` `AWS` `ETL/ELT`
+I am particularly interested in building systems at the intersection of:
+
+**Data Engineering • Applied AI • Machine Learning • Generative AI • RAG • MLOps • Cloud Engineering • Forward Deployed Engineering**
+
+I enjoy projects where I can take an idea from **problem → architecture → implementation → deployment → evaluation → production improvement**.
 
 ---
 
-## 🏢 Cognizant Technology Solutions — Machine Learning Engineer
-📍 India  
-📅 Sept 2021 – Aug 2024
+# 🧩 Engineering Experience
 
-### 🔹 Responsibilities
-- Developed and productionized machine learning models using Python, Scikit-learn, Pandas, NumPy, and XGBoost for classification, regression, prediction, and business analytics use cases.
-- Built scalable data preprocessing and feature engineering pipelines using Python, SQL, Pandas, and PySpark, including data cleansing, transformation, feature extraction, missing-value handling, and model-ready dataset preparation.
-- Designed and optimized machine learning workflows covering data preparation, feature engineering, model training, hyperparameter tuning, validation, and performance evaluation using Scikit-learn, XGBoost, and MLflow.
-- Implemented NLP and text analytics solutions using NLTK, spaCy, TF-IDF, word embeddings, and transformer-based approaches for text classification, sentiment analysis, entity extraction, and document processing.
-- Deployed machine learning models through REST APIs and cloud-based environments, using Docker, Flask/FastAPI, Git, and CI/CD practices to support scalable and maintainable production ML applications.
-- Collaborated with Data Scientists, Data Engineers, Software Engineers, and business stakeholders to translate business requirements into end-to-end machine learning solutions, monitor model performance, and improve model accuracy and reliability.
+Over the past **5+ years**, I have gained hands-on experience working across the software, data, and AI engineering stack.
 
-### 🔹 Technologies Used
-`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `PySpark` `MLflow` `Docker` `Flask` `FastAPI` `Git`
+My experience includes:
 
----
-
-## 🏢 Coforge — Junior Data Engineer
-📍 India  
-📅 Jul 2020 – Aug 2021
-
-### 🔹 Responsibilities
-- Developed and maintained batch ETL pipelines using Python, SQL, and PySpark to extract, transform, validate, and load structured and semi-structured data for analytics and machine learning workloads.
-- Processed and transformed large datasets using Apache Spark, applying distributed data-processing techniques to improve pipeline scalability and support downstream analytics.
-- Worked with Hadoop/Hive-based data environments for data ingestion, transformation, querying, and preparation of datasets for reporting and machine learning use cases.
-- Built SQL-based data transformations, joins, aggregations, and data-quality checks across relational and analytical datasets to improve data consistency and downstream usability.
-- Supported cloud-based data processing and storage workflows and collaborated with engineering/analytics teams to troubleshoot pipeline failures and resolve data-quality issues.
-- Assisted in preparing and validating feature datasets for machine learning workflows, including data cleansing, transformation, and validation of training data.
-- Used Git-based version control and followed structured development and testing practices for data-pipeline changes and production support.
-
-### 🔹 Technologies Used
-`Python` `SQL` `Apache Spark` `PySpark` `Hadoop` `Hive` `Git` `ETL`
+* Designing and maintaining scalable **ETL/ELT pipelines** using Python, SQL, Spark, PySpark, and Databricks
+* Building distributed data-processing workflows for structured and semi-structured datasets
+* Developing **Data Lake and Lakehouse architectures** using Databricks and Delta Lake
+* Implementing data ingestion, transformation, validation, quality checks, and monitoring
+* Developing complex SQL transformations and analytics-ready data models
+* Building machine learning pipelines covering preprocessing, feature engineering, training, tuning, evaluation, and deployment
+* Working with **Scikit-learn, XGBoost, Pandas, NumPy, PySpark, and MLflow**
+* Developing NLP solutions using **NLTK, spaCy, TF-IDF, embeddings, and Transformers**
+* Building **RAG systems** using LangChain, FAISS, embeddings, semantic retrieval, and LLMs
+* Deploying applications through **FastAPI, Flask, REST APIs, Docker, Git, and CI/CD**
+* Working with cloud-based data processing, storage, analytics, and AI workloads
+* Collaborating across data, ML, software, and business requirements to convert problems into deployable technical solutions
 
 ---
 
-# 🛠️ Technical Skills
+# 🔭 Current Focus
 
-## 💻 Programming & Query Languages
+Currently expanding my expertise in:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+`Generative AI` • `Agentic AI` • `Enterprise RAG` • `LLM Evaluation` • `MLOps` • `Data Engineering` • `Cloud AI` • `Distributed Systems`
 
-- Python
-- SQL
-- Java
-
----
-
-## ⚙️ Data Engineering
-
-- ETL / ELT
-- Data Pipelines
-- Data Processing
-- Data Integration
-- Data Validation
-- Data Quality
-- Data Modeling
-
----
-
-## 🚀 Big Data & Distributed Processing
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-- Apache Spark
-- PySpark
-- Hadoop
-- Hive
-
----
-
-## ☁️ Cloud & Data Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-- AWS
-- Azure Data Factory
-- Snowflake
-- Databricks
-- Delta Lake
-
----
-
-## 🤖 Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
-- Feature Engineering
-- Model Training
-- Hyperparameter Tuning
-- Model Evaluation
-
----
-
-## 🧠 NLP & AI
-
-- NLP
-- NLTK
-- spaCy
-- TF-IDF
-- Word Embeddings
-- Transformers
-- LangChain
-- FAISS
-- RAG (Retrieval-Augmented Generation)
-
----
-
-## 🔄 Streaming & Orchestration
-
-- Apache Kafka
-- Apache Airflow
-
----
-
-## 🚢 ML Deployment & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,fastapi,flask" />
-</p>
-
-- MLflow
-- Docker
-- Flask
-- FastAPI
-- REST APIs
-- Git
-- GitHub
-- CI/CD
-
----
-
-## 🏗️ Data Architecture
-
-- Data Lake
-- Lakehouse
-- Cloud Data Warehousing
-- Dimensional Data Modeling
-- Batch Processing
-- Streaming Workloads
-
----
-
-## 📊 Analytics & Engineering
-
-- Anomaly Detection
-- Predictive Analytics
-- Statistical Analysis
-- Performance Optimization
-- Data Quality Monitoring
----
-
-# 🎓 Education
-
-## 🎓 Master of Science in Computer Science
-### University of Missouri-Kansas City (UMKC)
-📍 Kansas City, Missouri, USA  
-📅 2024 – 2026  
-📈 **CGPA: 3.87 / 4.0**
-
-### 📚 Relevant Coursework
-- Network Architecture
-- Design and Analysis of Algorithms
-- Information Security Assurance
-- Blockchain
-- Cloud Computing
-- Cryptography
-- Advanced Operating Systems
-- Principles of Data Analytics
-- Architecture of Database Management Systems
-
----
-
-## 🎓 Bachelor of Technology in Computer Science
-### Velagapudi Ramakrishna Siddhartha Engineering College
-📍 Vijayawada, India  
-📅 2017 – 2021  
-📈 **CGPA: 8.32 / 10**
-
-### 📚 Relevant Coursework
-- Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Data Structures
-- Java Programming
-- Python Programming
-- Computer Networks
-- C Programming
-- Operating Systems
-- Software Engineering
-- Spring Boot
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohanSaiTulluri&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanSaiTulluri&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanSaiTulluri&theme=tokyonight" />
-</p>
-
----
-
-# 📌 Areas of Interest
-
-- Forward Deployment Engineer
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Data Engineering
-- Business Intelligence
-- Cloud Computing
-- Generative AI
-- MLOps
-- Big Data Technologies
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:mohant.umkc@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> “Data is the new oil, but insight is the real power.”
-
----
-
-<p align="center">
-⭐️ From <b>Mohan Sai Tulluri</b>
-</p>
+I am especially interested in building **production-grade AI systems** where LLMs, retrieval, data engineering, APIs, cloud infrastructure, evaluation, and observability work together as a complete platform.
